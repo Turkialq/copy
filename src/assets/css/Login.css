@@ -1,0 +1,11 @@
+.content-form {
+    background-color: white;
+    border-radius: 20px;
+    text-align: justify;
+    width: 40%;
+}
+
+.register-form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
